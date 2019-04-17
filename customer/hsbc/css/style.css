@@ -21,9 +21,9 @@ footer {
   font-size: 12px;
 }
 
-/* a {
-  color: #00B7FF;
-} */
+.threat {
+  background-color: #e0a6a6;
+}
 
 .main {
   /* background-color: aquamarine */
