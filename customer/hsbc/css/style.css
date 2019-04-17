@@ -18,7 +18,7 @@ footer {
   bottom: 0;
   left: 0;
   padding: 0.5rem;
-  font-size: 12px;
+  font-size: 20px;
 }
 
 .threat {
@@ -28,6 +28,16 @@ footer {
 .main {
   /* background-color: aquamarine */
   padding-top: 2rem;
-  
-  
+}
+
+body h1 {
+  font-size: 50px;
+}
+
+body h2 {
+  font-size: 40px;
+}
+
+body .container p {
+  font-size: 25px;
 }
