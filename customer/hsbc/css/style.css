@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  /* padding: 50px; */
+  /* padding: 40px 10px; */
+  background-color: #eee;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+footer {
+  background-color: #555;
+  color: white;
+  /* padding: 15px; */
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0.5rem;
+  font-size: 12px;
+}
+
+/* a {
+  color: #00B7FF;
+} */
+
+.main {
+  /* background-color: aquamarine */
+  padding-top: 2rem;
+  
+  
+}
